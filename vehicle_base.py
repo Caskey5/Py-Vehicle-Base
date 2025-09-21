@@ -22,9 +22,8 @@
         - Prati isti redoslijed kolona kao u naslovu.
 
 +5. Završeno!
-
-*Ako zapneš u 4. koraku (kako ispisati podatke iz unutarnjeg rječnika u pravilnom redoslijedu),
-pokušaj prvo ručno navesti redoslijed ključeva koje želiš ispisivati.
+===========================================================================
+Nadodane stavke:
 
 +6. (Napredno) Omogući unos vozila od strane korisnika
 Ako želiš, možeš napraviti unos podataka za vozilo putem funkcije input().
